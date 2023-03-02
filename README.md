@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+We made this as the final project from the Flutter bootcamp provided by the IT/SE Club at AUIS which IQ Online and Korek sponsored.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
