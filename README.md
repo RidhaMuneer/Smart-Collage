@@ -1,4 +1,4 @@
-# smartcollage
+# Smart Collage
 
 A new Flutter project.
 
